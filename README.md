@@ -46,10 +46,6 @@ The bot will reply with a Job ID</p>
 <h4>!twitter-post [id] [on/off]</h4>
 <p>Turns the twitter post on / off for a job.</p>
 
-# <<<<<<< HEAD
-
-> > > > > > > b09b950fb6b0d9d83d84262681f331ba9729e84e
-
 <h3>Authentication Commands</h3>
 
 <h4>!twitter-auth</h4>
@@ -58,10 +54,6 @@ The bot will reply with a Job ID</p>
 <h4>!auth</h4>
 <p>DM's a link to authorize the bot to access your discord connections. This is required for the cultist role setting to work and is accessible to all users.</p>
 
-# <<<<<<< HEAD
-
-> > > > > > > b09b950fb6b0d9d83d84262681f331ba9729e84e
-
 <h3>Misc Commands</h3>
 
 <h4>!awoo</h4>
@@ -69,10 +61,6 @@ The bot will reply with a Job ID</p>
 
 <h4>!send</h4>
 <p>Instantly sends a live notification in discord. Used mainly for testing. This is restricted to users in the code.</p>
-
-# <<<<<<< HEAD
-
-> > > > > > > b09b950fb6b0d9d83d84262681f331ba9729e84e
 
 <h3>Public Commands</h3>
 
@@ -87,10 +75,6 @@ The bot will reply with a Job ID</p>
 
 <h4>!twitch-link</h4>
 <p>Updates the linked twitch.</p>
-
-# <<<<<<< HEAD
-
-> > > > > > > b09b950fb6b0d9d83d84262681f331ba9729e84e
 
 <h3>oAuth Web Routes</h3>
 
